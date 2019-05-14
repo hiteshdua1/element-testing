@@ -8,8 +8,12 @@ This aims to get the cropped image of the selected DOM node by it's unique selec
  
  ###### Todo :
  
-- [ ] Pixel framework to compare screenshots
- 
+- [X] Pixel framework to compare screenshots 
+    pixelMatch
 - [ ] DB/localstorage to map screenshots with selectors
  
 - [ ] Integrating the above 2.
+
+- [ ] Dockerize it
+
+- [ ] Enhance the screenshot for loggin in the system, before you take specific element screenshot.
