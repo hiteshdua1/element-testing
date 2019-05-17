@@ -1,0 +1,25 @@
+{
+  "name": "element-testing",
+  "version": "1.0.0",
+  "description": "This is used for testing specific selectors and detect if the original element when created has been changed or not by means of screenshots comparison",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiteshdua1/element-testing.git"
+  },
+  "keywords": [
+    "pixelMatch",
+    "selector-diff",
+    "selector",
+    "puppeteer"
+  ],
+  "author": "Hitesh Dua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiteshdua1/element-testing/issues"
+  },
+  "homepage": "https://github.com/hiteshdua1/element-testing#readme"
+}
