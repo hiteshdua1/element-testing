@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/hiteshdua1/element-testing/issues"
   },
-  "homepage": "https://github.com/hiteshdua1/element-testing#readme"
+  "homepage": "https://github.com/hiteshdua1/element-testing#readme",
+  "dependencies": {
+    "puppeteer": "^1.16.0"
+  }
 }
